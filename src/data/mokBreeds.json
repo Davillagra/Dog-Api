@@ -1,0 +1,12 @@
+[
+    { "id": 1, "name": "Golden Retriever" },
+    { "id": 2, "name": "Labrador Retriever" },
+    { "id": 3, "name": "Poodle" },
+    { "id": 4, "name": "German Shepherd" },
+    { "id": 5, "name": "Bulldog" },
+    { "id": 6, "name": "Boxer" },
+    { "id": 7, "name": "Chihuahua" },
+    { "id": 8, "name": "Beagle" },
+    { "id": 9, "name": "Dachshund" },
+    { "id": 10, "name": "Shih Tzu" }
+]    

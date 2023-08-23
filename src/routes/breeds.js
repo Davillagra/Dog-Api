@@ -1,0 +1,13 @@
+import { Router } from "express";
+import fs from "fs"
+
+const router = Router()
+const path = "./src/data/mokBreeds.json"
+
+router.get("/", async (req,res)=>{
+    const data = await fs.promises.readFile(path,"utf-8")
+    const breeds = JSON.parse(data)
+    return res.status(200).send(breeds)
+})
+
+export default router

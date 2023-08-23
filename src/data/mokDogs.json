@@ -1,0 +1,22 @@
+[
+    { "id": 1, "name": "Buddy", "breed": 1 },
+    { "id": 2, "name": "Luna", "breed": 2 },
+    { "id": 3, "name": "Charlie", "breed": 3 },
+    { "id": 4, "name": "Max", "breed": 4 },
+    { "id": 5, "name": "Lucy", "breed": 5 },
+    { "id": 6, "name": "Rocky", "breed": 6 },
+    { "id": 7, "name": "Coco", "breed": 7 },
+    { "id": 8, "name": "Bailey", "breed": 8 },
+    { "id": 9, "name": "Daisy", "breed": 9 },
+    { "id": 10, "name": "Milo", "breed": 10 },
+    { "id": 11, "name": "Zoe", "breed": 5 },
+    { "id": 12, "name": "Coco", "breed": 5 },
+    { "id": 13, "name": "Sadie", "breed": 3 },
+    { "id": 14, "name": "Cooper", "breed": 5 },
+    { "id": 15, "name": "Ruby", "breed": 4 },
+    { "id": 16, "name": "Leo", "breed": 4 },
+    { "id": 17, "name": "Lola", "breed": 6 },
+    { "id": 18, "name": "Jack", "breed": 7 },
+    { "id": 19, "name": "Coco", "breed": 5 },
+    { "id": 20, "name": "Sadie", "breed": 2 }
+]
